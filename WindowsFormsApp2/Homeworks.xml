@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Homeworks>
+	<homework>
+		<id>1</id>
+		<course>C#</course>
+		<title>zd</title>
+		<description>zd all</description>
+		<Submissions>
+			<submission>
+				<id>1</id>
+				<student>3</student>
+				<solution>ok</solution>
+			</submission>
+			<submission>
+				<id>9</id>
+				<student>11</student>
+				<solution>hehehe</solution>
+			</submission>
+		</Submissions>
+	</homework>
+	<homework>
+		<id>2</id>
+		<course>C#</course>
+		<title>gamarjoba</title>
+		<description>tqveni davalebaa esa da es bejoooo</description>
+		<Submissions>
+			<submission>
+				<id>9</id>
+				<student>3</student>
+				<solution>magariaa</solution>
+			</submission>
+			<submission>
+				<id>9</id>
+				<student>4</student>
+				<solution>dzaan magariaa avoie</solution>
+			</submission>
+		</Submissions>
+	</homework>
+	<homework>
+		<id>3</id>
+		<course>C#</course>
+		<title>Keta</title>
+		<description>Ketushki has 2 apples. Lukusha eats her 1 apple... How many apples does Ketushki havs after this horrible fact?</description>
+		<Submissions>
+			<submission>
+				<id>9</id>
+				<student>3</student>
+				<solution>I guess 1, teacher...</solution>
+			</submission>
+		</Submissions>
+	</homework>
+	<homework>
+		<id>1</id>
+		<course>C++</course>
+		<title>s</title>
+		<description>sssasa</description>
+		<Submissions />
+	</homework>
+</Homeworks>
